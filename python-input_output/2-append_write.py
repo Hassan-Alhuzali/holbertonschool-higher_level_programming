@@ -2,6 +2,8 @@
 """
 Appends a string to a text file
 """
+
+
 def append_write(filename="", text=""):
     """
     Appends a string to a text file
